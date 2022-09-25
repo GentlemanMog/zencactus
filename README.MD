@@ -6,6 +6,8 @@
 - npm
 - yarn
 
-# Site setup
+## Dev setup
 
 `yarn install`
+`yarn build`
+`yarn start`
